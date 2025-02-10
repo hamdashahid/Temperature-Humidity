@@ -25,18 +25,15 @@ The Temperature-Humidity App is designed to monitor and display real-time temper
 3. Install the required dependencies:
 
    ```bash
-   npm install
+   flutter pub get
    ```
 
    ## Acknowledgements
 
    - Thanks to all contributors and supporters.
 
-   ## Contact
-
-   For any inquiries or issues, please contact [hamdashahid](mailto:hamdashahid5050@gmail.com).
-
 ---
 
-© 2023 Temperature-Humidity App. All rights reserved.  
-Developed by Hamda Shahid.
+## Copyright
+
+© 2023 Hamda Shahid. All rights reserved.
